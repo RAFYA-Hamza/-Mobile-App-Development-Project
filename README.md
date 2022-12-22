@@ -4,3 +4,4 @@ Development of a mobile application for the detection of falls or accidents, usi
 Features:
  - Detection of falls or accidents.
  - Sending an SMS alert message to an emergency phone number.
+# Read the report for more details
